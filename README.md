@@ -3,4 +3,4 @@ we are going to see the Olympics analysis using Python. The modern Olympic Games
 Modules Used Pandas: It is used for analyzing the data, 
 NumPy: NumPy is a general-purpose array-processing package. 
 Matplotlib: It is a numerical mathematics extension NumPy 
-seaborn: It is used for visualization statistical graphics plotting in Python
+seaborn: It is used for visualization statistical graphics plotting in Python.
